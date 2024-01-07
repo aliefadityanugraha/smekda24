@@ -23,7 +23,6 @@ export default async function Post() {
   return (
     <>
       <Navbar></Navbar>
-      <Banner>Posts Page</Banner>
       {posts.map((post) => {
         return (
           <CardList key={post.id}>
