@@ -9,7 +9,7 @@ export default function Gallery() {
       <div className="px-5 lg:px-32 lg:pt-24  mb-3">
         <h1 className="text-center font-sans text-3xl font-bold">Gallery</h1>
         <p className="text-center font-sans text-lg font-light text-slate-300">
-          Gallery Of Smekda 24"
+          Gallery Of Smekda 24
         </p>
       </div>
       <div className="mx-auto px-5 py-2 pt-5 lg:px-32 lg:pt-12">
