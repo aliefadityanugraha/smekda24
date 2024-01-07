@@ -2,7 +2,6 @@
 
 import styles from "./post.module.css";
 import Navbar from "../components/main/Navbar";
-import Banner from "../components/main/Banner";
 import CardList from "../components/posts/CardList";
 import ViewUserButton from "../components/posts/ViewUserButton";
 import Footer from "../components/main/Footer";
